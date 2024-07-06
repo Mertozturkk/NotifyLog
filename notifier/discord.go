@@ -1,1 +1,6 @@
 package notifier
+
+func Notify() {
+
+
+}
